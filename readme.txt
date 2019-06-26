@@ -1,1 +1,1 @@
-����ѧpython
+﻿我想学python。
